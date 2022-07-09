@@ -1,0 +1,12 @@
+{
+  "name": "获取地址数据",
+  "version": "0.1.0",
+  "private": true,
+  "description": "获取地址数据的爬虫",
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {}
+}
